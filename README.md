@@ -1,2 +1,2 @@
 # rastertoolkit
-Repository for RasterToolKit
+Repository for RasterToolkit
